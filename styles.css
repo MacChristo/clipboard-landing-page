@@ -140,7 +140,8 @@ main {
 
 footer {
     width: 100%;
-    background-color: hsl(201 11% 66% / 10%)
+    background-color: hsl(201 11% 66% / 10%);
+    padding: 2em 0;
 }
 
 .footer-layout {
@@ -278,7 +279,7 @@ footer {
 
 @media (max-height: 700px) {
     body {
-        padding-bottom: 0;
+        padding-bottom: 6em;
     }
 }
 
