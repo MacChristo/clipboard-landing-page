@@ -76,6 +76,9 @@ main {
     opacity: 0.7;
     cursor: pointer;
 }
+.btn:focus {
+    border: none;
+}
 
 .btn-ios {
     background-color: var(--Strong-Cyan--);
