@@ -1,6 +1,6 @@
 # Frontend Mentor - Clipboard landing page solution
 
-This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,7 +17,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-
 ## Overview
 
 ### The challenge
@@ -29,13 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](design/desktop-preview.jpg)
+![Alternate text](desktop-preview.jpg)(design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL:   https://github.com/MacChristo/clipboard-landing-page.git
-- Live Site URL: https://macchristo.github.io/clipboard-landing-page/
-
+- Solution URL:   <https://github.com/MacChristo/clipboard-landing-page.git>
+- Live Site URL: <https://macchristo.github.io/clipboard-landing-page/>
 
 ## My process
 
@@ -47,17 +45,13 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
-
 ### Continued development
 
 My next focus is JS.
 
-
 ### Useful resources
 
 - [Font Awesome](https://fontawesome.com) - Font Awesome is really helpful when you want to get nice icons for your projects. It also gives you the opportunity to edit the icon styles(e.g icon color, size, hover states etc) without the need for JS or JQuery.
-
 
 ## Author
 
